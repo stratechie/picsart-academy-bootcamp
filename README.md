@@ -29,11 +29,3 @@ Welcome to the repository for Picsart Academy's Code Republic Lab Bootcamp progr
 
 ### 2.5 Interpreter
 - Develop an interpreter for a simple programming language.
-
-## Getting Started
-
-To get started with any of the projects, clone this repository and navigate to the corresponding directory. Each project contains a README file with specific instructions on how to build and run the application.
-
-```bash
-git clone https://github.com/tatevsrapivonyan/code-republic-lab-bootcamp.git
-```
